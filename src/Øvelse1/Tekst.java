@@ -1,4 +1,4 @@
-package demo;
+package Øvelse1;
 
 import java.util.ArrayList;
 import java.util.Scanner;
